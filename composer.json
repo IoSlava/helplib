@@ -1,0 +1,11 @@
+{
+    "name": "player128/helplib",
+    "description": "Additional function",
+    "authors": [
+        {
+            "name": "Slava N",
+            "email": "slavamonster6@gmail.com"
+        }
+    ],
+    "require": {}
+}
